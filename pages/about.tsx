@@ -1,6 +1,5 @@
 import { NextSeo } from 'next-seo'
 import Layout from '../components/Layout'
-import Image from 'next/image'
 import styles from '../styles/About.module.scss'
 
 const About: React.FC = () => {
