@@ -3,8 +3,6 @@ import clsx from 'clsx'
 import Layout from '../components/Layout'
 import styles from '../styles/Home.module.scss'
 
-import logo from '../public/logo@2x.png'
-
 const Home: React.FC = () => {
   return (
     <Layout>
